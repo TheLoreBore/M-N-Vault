@@ -4,6 +4,12 @@ A combination-locked vault box built for **Rowdy Hacks** on an **Arduino UNO R4 
 
 ![M&N Vault build, angled view](docs/images/photo1_angled_overview.webp)
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/_z7jOUbdufo/hqdefault.jpg)](https://youtube.com/shorts/_z7jOUbdufo)
+
+Watch the demo on YouTube: https://youtube.com/shorts/_z7jOUbdufo
+
 ## How it works
 
 The user picks a color with the push button, then proves themselves with the motion sensor and an RFID tag.
