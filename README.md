@@ -2,7 +2,7 @@
 
 A combination-locked vault box built for **Rowdy Hacks** on an **Arduino UNO R4 WiFi**. It only opens after the right sequence of button presses, a wave at a motion sensor and an RFID scan, and it sends a **Telegram** message to the owner whenever it opens or someone fails an attempt.
 
-![Heist Vault build, angled view](docs/images/photo1_angled_overview.webp)
+![M&N Vault build, angled view](docs/images/photo1_angled_overview.webp)
 
 ## How it works
 
