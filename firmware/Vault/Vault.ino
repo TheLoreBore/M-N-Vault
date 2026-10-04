@@ -39,8 +39,8 @@ const unsigned long SELECTION_TIME = 2000;
 const unsigned long STEP_TIMEOUT = 5000;
 const unsigned long OPEN_TIME = 30000;   // how long the vault stays open
 
-const int LOCKED_POSITION = 0;
-const int OPEN_POSITION = 90;
+const int LOCKED_POSITION = 90;
+const int OPEN_POSITION = 0;
 
 const bool TEXT_ON_ALARM = true;         // also text when the alarm goes off
 
