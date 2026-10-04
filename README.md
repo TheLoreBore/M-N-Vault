@@ -1,4 +1,4 @@
-# Heist Vault
+# M&N Vault
 
 A combination-locked vault box built for **Rowdy Hacks** on an **Arduino UNO R4 WiFi**. It only opens after the right sequence of button presses, a wave at a motion sensor and an RFID scan, and it sends a **Telegram** message to the owner whenever it opens or someone fails an attempt.
 
@@ -76,7 +76,7 @@ The board needs a **2.4 GHz** WiFi network. Guest networks with a login page wil
 ## Project structure
 
 ```
-heist-vault/
+M-N-Vault/
 ├── firmware/Vault/
 │   ├── Vault.ino                    # main sketch
 │   └── arduino_secrets.example.h    # copy to arduino_secrets.h
