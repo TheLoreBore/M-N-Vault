@@ -1,0 +1,12 @@
+# Credentials - never commit
+arduino_secrets.h
+
+# Build output / editor files
+build/
+*.elf
+*.hex
+*.bin
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
